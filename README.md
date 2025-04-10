@@ -1,16 +1,20 @@
-## Hi there 👋
+### 👋 Hi there, I’m Harsh Sharma
 
-<!--
-**HarshSharma991/HarshSharma991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year B.Tech CSE Student @ Amity University  
+📚 NPTEL Certified | Cisco Networking Basics | Java, Python, C++  
+🔭 Currently working on personal projects & preparing for internships  
+🌱 Interested in Networking, Software Dev, and System Design  
+💼 Open to Internship Opportunities  
+📫 Reach me at: sharmaharsh9810@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/harsh-sharma-406254267)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Languages & Tools**  
+- C, C++, Java, Python  
+- Visual Studio Code, MySQL, Packet Tracer  
+- Git & GitHub, MS Office  
+
+---
+
+💡 “Stay hungry, stay foolish.” – Steve Jobs
