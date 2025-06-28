@@ -44,7 +44,7 @@
 
 ### 🌐 Let’s Connect
 
-- 🔗 [LinkedIn](https://linkedin.com/in/harsh-sharma-406254267)
+- 🔗 [LinkedIn](https://linkedin.com/in/harshsharma991)
 - ✉️ Email: sharmaharsh9810@gmail.com
 
 ---
